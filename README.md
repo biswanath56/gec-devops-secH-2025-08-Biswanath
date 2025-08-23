@@ -1,2 +1,6 @@
-#My Details
-Name: Biswanath Shaw, email: biswanthshaw888@gmail.com, 8210863328
+#My Details 
+<br>
+Name: Biswanath Shaw 
+<br>
+email: biswanthshaw888@gmail.com
+<br> 8210863328
