@@ -1,6 +1,3 @@
 #My Details 
-<br>
-Name: Biswanath Shaw 
-<br>
-email: biswanthshaw888@gmail.com
-<br> 8210**3328
+
+Name: Biswanath Shaw ,email: biswanthshaw888@gmail.com,8210**3328
